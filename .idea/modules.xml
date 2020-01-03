@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpeechDemo-Kotlin.iml" filepath="$PROJECT_DIR$/SpeechDemo-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeechDemo-kotlin.iml" filepath="$PROJECT_DIR$/SpeechDemo-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/SpeechDemo-kotlin-app.iml" filepath="$PROJECT_DIR$/app/SpeechDemo-kotlin-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
